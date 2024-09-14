@@ -3,7 +3,7 @@ package jtraining24;
 /**
  * 掛け算割り算 クラス
  */
-public class Jtraining24 {	
+	public class Jtraining24 {	
 	/**
 	 * main　メソッド
 	 * param args　実行引数

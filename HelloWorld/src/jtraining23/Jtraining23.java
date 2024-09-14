@@ -3,7 +3,7 @@ package jtraining23;
 /**
  * x y 入れ替え クラス
  */
-public class Jtraining23 {	
+	public class Jtraining23 {	
 	/**
 	 * main　メソッド
 	 * param args　実行引数
