@@ -4,10 +4,10 @@ package jtraining23;
  * x y 入れ替え クラス
  */
 public class Jtraining23 {	
-	/**
-	 * main　メソッド
-	 * param args　実行引数
-	 */
+    /**
+     * main　メソッド
+     * param args　実行引数
+     */
     public static void main(String[] args) {
         int x = 4;
         int y = 3;
