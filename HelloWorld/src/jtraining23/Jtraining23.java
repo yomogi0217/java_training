@@ -8,7 +8,7 @@ public class Jtraining23 {
 	 * main　メソッド
 	 * param args　実行引数
 	 */
-	 public static void main(String[] args) {
+	public static void main(String[] args) {
 			int x = 4;
 			int y = 3;
 			int t = 0;
@@ -19,5 +19,5 @@ public class Jtraining23 {
 			
 			System.out.println(x);
 			System.out.println(y);
-	 }	
+	}	
 }	
