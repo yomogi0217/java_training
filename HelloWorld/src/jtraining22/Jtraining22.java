@@ -11,5 +11,5 @@ public class Jtraining22 {
 	 public static void main(String[] args) {
 			String x = "Hello";
 			String y = "World";
-	}	
+	 }	
 }	
