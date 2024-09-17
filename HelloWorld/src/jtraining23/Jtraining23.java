@@ -8,16 +8,16 @@ public class Jtraining23 {
 	 * main　メソッド
 	 * param args　実行引数
 	 */
-	 public static void main(String[] args) {
-			int x = 4;
-			int y = 3;
-			int t = 0;
+    public static void main(String[] args) {
+        int x = 4;
+        int y = 3;
+        int t = 0;
 			
-			t = x;
-			x = y;
-			y = t;
+        t = x;
+        x = y;
+        y = t;
 			
-			System.out.println(x);
-			System.out.println(y);
-	 }	
-}	
+        System.out.println(x);
+        System.out.println(y);
+    }
+}
